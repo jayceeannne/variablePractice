@@ -1,7 +1,7 @@
-var email = "jayceesemail@gmail.com"
-var startingAge = 25
-var doesJayceeLoveSoda = true
+var dadsName = "john"
+var dadsAge = 64
+var momsName = "ruth"
+var momsAge = 62
+var momYoungerThanDad = true
 
-var dateOfBirth = 01-03-1998
-var username = "jayceeanne"
-var doesJayceeLoveToTravel = true
+console.log(dadsName);
